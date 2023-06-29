@@ -1,3 +1,1 @@
-# TEN
-
-[TEN](http://tengame.info/) is a brain-tickling board game of tic-tactical-toe.
+# [Ultimate tic-tac-toe](https://en.wikipedia.org/wiki/Ultimate_tic-tac-toe)

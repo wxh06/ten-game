@@ -1,10 +1,10 @@
 {
-  "name": "ten-game",
+  "name": "ultimate-tic-tac-toe",
   "version": "0.0.1",
-  "description": "TEN",
-  "homepage": "https://github.com/wxh06/ten-game#readme",
+  "description": "Ultimate Tic-Tac-Toe",
+  "homepage": "https://github.com/wxh06/ultimate-tic-tac-toe#readme",
   "bugs": {
-    "url": "https://github.com/wxh06/ten-game/issues"
+    "url": "https://github.com/wxh06/ultimate-tic-tac-toe/issues"
   },
   "license": "MIT",
   "author": {
@@ -14,9 +14,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wxh06/ten-game.git"
+    "url": "git+https://github.com/wxh06/ultimate-tic-tac-toe.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
+  "private": true
 }

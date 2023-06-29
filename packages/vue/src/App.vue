@@ -1,10 +1,10 @@
 <script setup lang="ts">
-import TenGame from './components/TenGame.vue'
+import UltimateTicTacToe from './components/UltimateTicTacToe.vue'
 </script>
 
 <template>
   <div class="mx-auto aspect-square h-full">
-    <TenGame class="h-full w-full" />
+    <UltimateTicTacToe class="h-full w-full" />
   </div>
 </template>
 
