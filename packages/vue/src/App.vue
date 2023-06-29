@@ -3,7 +3,7 @@ import UltimateTicTacToe from './components/UltimateTicTacToe.vue'
 </script>
 
 <template>
-  <div class="mx-auto aspect-square h-full">
+  <div class="mx-auto aspect-square max-h-full">
     <UltimateTicTacToe class="h-full w-full" />
   </div>
 </template>
